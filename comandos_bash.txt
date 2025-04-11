@@ -1,0 +1,5 @@
+ls -> lista arquivos
+cd -> move entre diretórios
+pwd -> mostra caminho do diretório atual
+rm -rf -> exclui todas subpastas
+git init . -> inicia um repositório git
