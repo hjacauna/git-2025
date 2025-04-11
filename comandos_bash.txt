@@ -1,8 +1,5 @@
 ls -> lista arquivos
 cd -> move entre diretórios
 pwd -> mostra caminho do diretório atual
+cat -> exibe conteúdo do arquivo
 rm -rf -> exclui todas subpastas
-git init . -> inicia um repositório git
-git status -> verifica qual arquivo esta diferente da main
-git add - > prepara os arquivos para commit
-git commit -m -> realiza o commit nos arquivos
